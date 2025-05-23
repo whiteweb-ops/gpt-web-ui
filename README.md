@@ -16,7 +16,7 @@ Built using [Gradio](https://www.gradio.app/) to simulate the look and feel of C
 pip3 install openai
 pip3 install gradio==4.15.0
 
-#Usage
+# Usage
 
 python3 web-ui.py
 
