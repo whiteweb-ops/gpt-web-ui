@@ -11,10 +11,9 @@ Built using [Gradio](https://www.gradio.app/) to simulate the look and feel of C
 - All messages are stored in-memory for the current session.
 - No login, no tracking — just pure chat.
 
-# Getting Started
+# Requirements
 
-pip3 install openai
-pip3 install gradio==4.15.0
+pip3 install openai | pip3 install gradio==4.15.0
 
 # Usage
 
