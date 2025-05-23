@@ -26,6 +26,6 @@ Sample output:
 
 To stop the service press Ctrl + C in terminal
 
-#License 
+# License 
 
 This project is licensed under the MIT License
